@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Let's go dude!\n");
+  printf("Pre-Health\n");
 
   return 0;
 }
