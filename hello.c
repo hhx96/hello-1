@@ -8,7 +8,8 @@
 
 int main(void) {
 
-  printf("Jacob Carter")
+  printf("Jacob Carter\n");
+  printf("Computer Science\n");
   return 0;
 
 }
