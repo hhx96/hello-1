@@ -1,18 +1,14 @@
-/**
- * Author: Jacob Carter and Jared Switzer
- * Date: 2019/27/08
+/* Author: Jacob Carter
+ * Date: 2020/01/16
  *
- * A simple hello world program in C
- *
+ * A simple hello world program in C.
  */
-#include<stdlib.h>
+
 #include<stdio.h>
 
-int main(int argc, char **argv) {
+int main(void) {
 
-  printf("Pre-Health\n");
-  printf("Electrical Engineering\n");
-  printf("Taylor Morgan\n");
-
+  printf("Jacob Carter")
   return 0;
+
 }
