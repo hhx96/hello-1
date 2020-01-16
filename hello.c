@@ -13,3 +13,11 @@ int main(void) {
   return 0;
 
 }
+
+int main(void) {
+  printf("I'm Jacob's groupmate, my name is Hongxuan He.\n");
+  printf("My major is computer science.\n");
+  
+  return 0;
+  
+}
